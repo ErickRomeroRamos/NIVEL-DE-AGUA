@@ -27,3 +27,4 @@ Para poder usar este repositorio necesitas entrar a la plataforma WOKWI.
 
 Instrucciones de preparación de entorno
 
+![image](https://github.com/ErickRomeroRamos/NIVEL-DE-AGUA/assets/153964793/100c32be-ee67-4a47-b933-a7e26af8111c)
